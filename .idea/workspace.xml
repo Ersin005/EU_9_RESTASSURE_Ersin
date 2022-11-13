@@ -4,37 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d6fa34-7cc1-4fc5-9aa0-76e58d1eb4ba" name="Changes" comment="My API Test Study First Push">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day1/SimpleGetRequest_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/HrGetRequests_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/SpartanNegativeGetTest_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/SpartansGetRequests_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/ORDS_API_TestWithParameters_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/SpartanTestsWithParameters_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/SpartansTestWithPath_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/HRTestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/SpartanTestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/EU_9_RESTASSURE_Ersin-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day1/SimpleGetRequest_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day2/HrGetRequests_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day2/SpartanNegativeGetTest_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day2/SpartansGetRequests_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day3/ORDS_API_TestWithParameters_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day3/SpartanTestsWithParameters_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day3/SpartansTestWithPath_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Utilities/HRTestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Utilities/SpartanTestBase.class" afterDir="false" />
+    <list default="true" id="93d6fa34-7cc1-4fc5-9aa0-76e58d1eb4ba" name="Changes" comment="Day4: ORDSPath class added">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiTestWithPath_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/SpartansTestWithPath_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/SpartansTestWithPath_7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +22,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HFqYBjQy5iuXc0sna2wKd3JyJu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -177,7 +157,16 @@
       <workItem from="1668056784810" duration="9197000" />
       <workItem from="1668283565123" duration="1943000" />
       <workItem from="1668288058830" duration="308000" />
+      <workItem from="1668325676326" duration="3098000" />
     </task>
+    <task id="LOCAL-00001" summary="My API Test Study First Push">
+      <created>1668325795616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668325795616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +184,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="My API Test Study Second Push" />
     <MESSAGE value="My API Test Study First Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="My API Test Study First Push" />
+    <MESSAGE value="Day4: ORDSPath class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day4: ORDSPath class added" />
   </component>
 </project>
