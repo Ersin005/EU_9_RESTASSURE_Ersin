@@ -67,6 +67,8 @@ public class ORDS_API_TestWithParameters_6 extends HRTestBase {
         assertEquals(200,response.statusCode());
         assertEquals("application/json",response.contentType());
         assertTrue(response.body().asString().contains("IT_PROG"));
+
+        response.prettyPrint();
     }
 
 }
