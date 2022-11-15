@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d6fa34-7cc1-4fc5-9aa0-76e58d1eb4ba" name="Changes" comment="Day4: ORDSPath class added">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/review_Zulpikar/week_1/AcceptType_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/review_Zulpikar/week_1/CydeoGetRequest_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/review_Zulpikar/week_1/FirstTest_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/review_Zulpikar/week_1/Parameters_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/review_Zulpikar/week_1/PathCydeoStudent_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/review_Zulpikar/week_1/PathMethod_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/review_Zulpikar/week_1/SpartanTest_4.java" afterDir="false" />
+    <list default="true" id="93d6fa34-7cc1-4fc5-9aa0-76e58d1eb4ba" name="Changes" comment="Day4: Json Path Continues">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/ORDS_API_TestWithParameters_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/ORDS_API_TestWithParameters_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiTestWithPath_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiTestWithPath_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day2/SpartanNegativeGetTest_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day2/SpartanNegativeGetTest_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/SpartanWithJasonPath_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/SpartanWithJasonPath_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day3/ORDS_API_TestWithParameters_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day3/ORDS_API_TestWithParameters_6.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +60,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.ORDSApiTestWithPath_8.test2">
+  <component name="RunManager" selected="JUnit.ORDSApiWithJsonPath_10.test1">
     <configuration name="ORDSApiTestWithPath_8.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU_9_RESTASSURE_Ersin" />
       <extension name="coverage">
@@ -101,6 +93,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ORDSApiWithJsonPath_10.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU_9_RESTASSURE_Ersin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.Day4" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day4.ORDSApiWithJsonPath_10" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Parameters_5.pathParam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU_9_RESTASSURE_Ersin" />
       <extension name="coverage">
@@ -117,32 +125,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpartanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpartanWithJasonPath_9.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU_9_RESTASSURE_Ersin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review_Zulpikar.week_1.*" />
+          <option name="PATTERN" value="com.cydeo.Day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="review_Zulpikar.week_1" />
-      <option name="MAIN_CLASS_NAME" value="review_Zulpikar.week_1.SpartanTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpartanTest.headerValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU_9_RESTASSURE_Ersin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="review_Zulpikar.week_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="review_Zulpikar.week_1" />
-      <option name="MAIN_CLASS_NAME" value="review_Zulpikar.week_1.SpartanTest" />
-      <option name="METHOD_NAME" value="headerValue" />
+      <option name="PACKAGE_NAME" value="com.cydeo.Day4" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day4.SpartanWithJasonPath_9" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ORDSApiWithJsonPath_10.test1" />
+        <item itemvalue="JUnit.SpartanWithJasonPath_9.test1" />
         <item itemvalue="JUnit.ORDSApiTestWithPath_8.test2" />
         <item itemvalue="JUnit.ORDSApiTestWithPath_8.test1" />
         <item itemvalue="JUnit.Parameters_5.pathParam" />
-        <item itemvalue="JUnit.SpartanTest" />
-        <item itemvalue="JUnit.SpartanTest.headerValue" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +166,9 @@
       <workItem from="1668283565123" duration="1943000" />
       <workItem from="1668288058830" duration="308000" />
       <workItem from="1668325676326" duration="16292000" />
-      <workItem from="1668407468610" duration="866000" />
+      <workItem from="1668407468610" duration="2196000" />
+      <workItem from="1668437248979" duration="3533000" />
+      <workItem from="1668487019273" duration="593000" />
     </task>
     <task id="LOCAL-00001" summary="My API Test Study First Push">
       <created>1668325795616</created>
@@ -189,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668344567616</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day4: Json Path Continues">
+      <created>1668408842413</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668408842413</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +212,7 @@
     <MESSAGE value="My API Test Study Second Push" />
     <MESSAGE value="My API Test Study First Push" />
     <MESSAGE value="Day4: ORDSPath class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day4: ORDSPath class added" />
+    <MESSAGE value="Day4: Json Path Continues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day4: Json Path Continues" />
   </component>
 </project>
