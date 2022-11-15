@@ -40,7 +40,7 @@ public class SpartanNegativeGetTest_4 {
        assertEquals(406,response.statusCode());
 
         // 4. And response content type must be application/xml
-        assertEquals("application/xml;charset=UFT-8", response.contentType());
+        assertEquals("application/xml;charset=UTF-8", response.contentType());
 
 
     }
