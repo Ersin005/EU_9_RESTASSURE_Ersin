@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d6fa34-7cc1-4fc5-9aa0-76e58d1eb4ba" name="Changes" comment="My API Test Study First Push">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day1/SimpleGetRequest_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/HrGetRequests_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/SpartanNegativeGetTest_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/SpartansGetRequests_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/ORDS_API_TestWithParameters_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/SpartanTestsWithParameters_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/SpartansTestWithPath_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/HRTestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/SpartanTestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/EU_9_RESTASSURE_Ersin-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day1/SimpleGetRequest_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day2/HrGetRequests_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day2/SpartanNegativeGetTest_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day2/SpartansGetRequests_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day3/ORDS_API_TestWithParameters_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day3/SpartanTestsWithParameters_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day3/SpartansTestWithPath_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Utilities/HRTestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Utilities/SpartanTestBase.class" afterDir="false" />
-    </list>
+    <list default="true" id="93d6fa34-7cc1-4fc5-9aa0-76e58d1eb4ba" name="Changes" comment="Day4: Json Path Continues-2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,13 +18,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HFqYBjQy5iuXc0sna2wKd3JyJu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -155,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SpartanNegativeGetTest_4" />
-        <item itemvalue="JUnit.SpartanNegativeGetTest_4.test1" />
         <item itemvalue="JUnit.SpartansTestWithPath_7" />
         <item itemvalue="JUnit.SpartansTestWithPath.test2" />
         <item itemvalue="JUnit.SpartansTestWithPath" />
+        <item itemvalue="JUnit.SpartanNegativeGetTest_4.test1" />
+        <item itemvalue="JUnit.SpartanNegativeGetTest_4" />
       </list>
     </recent_temporary>
   </component>
