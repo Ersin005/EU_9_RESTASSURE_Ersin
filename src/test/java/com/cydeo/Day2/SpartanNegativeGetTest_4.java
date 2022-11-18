@@ -37,10 +37,11 @@ public class SpartanNegativeGetTest_4 {
 
        //assertEquals(200,(given().accept(ContentType.XML).when().get("/api/spartans/10").statusCode()));
         //3. Then status code must be 406
-       assertEquals(406,response.statusCode());
+        System.out.println("response.statusCode() = " + response.statusCode());
+        assertEquals(406,response.statusCode());
 
         // 4. And response content type must be application/xml
-        assertEquals("application/xml;charset=UFT-8", response.contentType());
+        assertEquals("application/xml;charset=UTF-8", response.contentType());
 
 
     }

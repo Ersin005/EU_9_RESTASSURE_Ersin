@@ -4,18 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d6fa34-7cc1-4fc5-9aa0-76e58d1eb4ba" name="Changes" comment="Day4: Json Path Continues-2">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiTestWithPath_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiWithJsonPath_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/SpartanWithJasonPath_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review_With_Zulpikar/AcceptType_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review_With_Zulpikar/CydeoGetRequest_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review_With_Zulpikar/FirstTest_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review_With_Zulpikar/Parameters_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review_With_Zulpikar/PathMethod_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review_With_Zulpikar/SpartanTest_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/review_With_Zulpikar/xxxxx.java" afterDir="false" />
+    <list default="true" id="93d6fa34-7cc1-4fc5-9aa0-76e58d1eb4ba" name="Changes" comment="Day4: Json Path Continues-3">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/CBTrainingApiWithJsonPath_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/HamCrestMatchersAPITest_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/Hamcrest_Matchers_Intro_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/JSONtoJAVATest_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/ORDSHamcrestTest_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/SpartanHamcrestTest_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/Spartan_API_vs_DB_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/DBUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_11_2022_09_37__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_11_2022_09_37__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_11_2022_09_37__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_11_2022_09_37__Changes_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/SpartanNegativeGetTest_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/SpartanNegativeGetTest_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiWithJsonPath_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiWithJsonPath_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/SpartanTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/SpartanTestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day2/SpartanNegativeGetTest_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Day2/SpartanNegativeGetTest_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/Utilities/SpartanTestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/Utilities/SpartanTestBase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,94 +57,108 @@
     <option name="autoscrollFromSource" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Ersin/JavaPractice/ReviewWihtOscar/Notes.txt/EU_9_RESTASSURE_Ersin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.SpartanNegativeGetTest_4">
-    <configuration name="SpartanNegativeGetTest_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ersin\JavaPractice\ReviewWihtOscar\Notes.txt\EU_9_RESTASSURE_Ersin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cydeo.Utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Spartan_API_vs_DB_17.testDB1">
+    <configuration name="JSONtoJAVATest_16.allSpartans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU_9_RESTASSURE_Ersin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Day2.*" />
+          <option name="PATTERN" value="com.cydeo.Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day2" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day2.SpartanNegativeGetTest_4" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpartanNegativeGetTest_4.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU_9_RESTASSURE_Ersin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.Day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day2" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day2.SpartanNegativeGetTest_4" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.cydeo.Day5" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day5.JSONtoJAVATest_16" />
+      <option name="METHOD_NAME" value="allSpartans" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpartansTestWithPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JSONtoJAVATest_16.getAllSpartans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU_9_RESTASSURE_Ersin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Day3.*" />
+          <option name="PATTERN" value="com.cydeo.Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.SpartansTestWithPath" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.cydeo.Day5" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day5.JSONtoJAVATest_16" />
+      <option name="METHOD_NAME" value="getAllSpartans" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpartansTestWithPath_7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JSONtoJAVATest_16.oneSpartanToMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU_9_RESTASSURE_Ersin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Day3.*" />
+          <option name="PATTERN" value="com.cydeo.Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.SpartansTestWithPath_7" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.cydeo.Day5" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day5.JSONtoJAVATest_16" />
+      <option name="METHOD_NAME" value="oneSpartanToMap" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpartansTestWithPath.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpartanHamcrestTest_15.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU_9_RESTASSURE_Ersin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Day3.*" />
+          <option name="PATTERN" value="com.cydeo.Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.SpartansTestWithPath" />
+      <option name="PACKAGE_NAME" value="com.cydeo.Day5" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day5.SpartanHamcrestTest_15" />
       <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spartan_API_vs_DB_17.testDB1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU_9_RESTASSURE_Ersin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.Day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.Day5" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day5.Spartan_API_vs_DB_17" />
+      <option name="METHOD_NAME" value="testDB1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SpartansTestWithPath_7" />
-        <item itemvalue="JUnit.SpartansTestWithPath.test2" />
-        <item itemvalue="JUnit.SpartansTestWithPath" />
-        <item itemvalue="JUnit.SpartanNegativeGetTest_4.test1" />
-        <item itemvalue="JUnit.SpartanNegativeGetTest_4" />
+        <item itemvalue="JUnit.Spartan_API_vs_DB_17.testDB1" />
+        <item itemvalue="JUnit.JSONtoJAVATest_16.getAllSpartans" />
+        <item itemvalue="JUnit.JSONtoJAVATest_16.allSpartans" />
+        <item itemvalue="JUnit.JSONtoJAVATest_16.oneSpartanToMap" />
+        <item itemvalue="JUnit.SpartanHamcrestTest_15.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +188,21 @@
       <workItem from="1668056784810" duration="9197000" />
       <workItem from="1668283565123" duration="1943000" />
       <workItem from="1668288058830" duration="308000" />
+      <workItem from="1668535631436" duration="952000" />
+      <workItem from="1668536758541" duration="414000" />
+      <workItem from="1668537284760" duration="1342000" />
+      <workItem from="1668583497236" duration="13054000" />
+      <workItem from="1668672901378" duration="6749000" />
+      <workItem from="1668690910691" duration="24572000" />
     </task>
+    <task id="LOCAL-00001" summary="Day4: Json Path Continues-2">
+      <created>1668495123604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668495123604</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +221,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My API Test Study First Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="My API Test Study First Push" />
+    <MESSAGE value="Day4: Json Path Continues-2" />
+    <MESSAGE value="Day4: Json Path Continues-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day4: Json Path Continues-3" />
   </component>
 </project>
